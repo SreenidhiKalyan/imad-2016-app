@@ -10,7 +10,15 @@ body {
      text-align:center;
      padding:5px;
 }
-
+#nav{
+    line-height:30px;
+    background-color:#48d1cc;
+    color:white;
+    height:350px;
+    width:110px;
+    float:left;
+    padding:10px
+}
 .center {
     text-align: center;
 }
